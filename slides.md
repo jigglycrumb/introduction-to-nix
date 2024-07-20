@@ -144,7 +144,7 @@ Use the [Determinate Systems Nix installer](https://github.com/DeterminateSystem
 <br/>
 
 ¹ __Users doesn't only mean developers. CI is a user, too__  
-² __Really, it isn't__
+² __Yes, you read that right__
 
 ---
 layout: quote
